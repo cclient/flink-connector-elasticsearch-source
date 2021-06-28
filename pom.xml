@@ -33,7 +33,7 @@ under the License.
 		<flink.version>1.13.1</flink.version>
 		<!--		<hadoop.version>3.1.2</hadoop.version>-->
 		<hadoop.version>2.8.3</hadoop.version>
-		<elasticsearch-hadoop.version>7.13.2</elasticsearch-hadoop.version>
+		<elasticsearch-hadoop.version>7.5.1</elasticsearch-hadoop.version>
 		<scala.binary.version>2.11</scala.binary.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
