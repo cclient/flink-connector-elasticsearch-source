@@ -121,7 +121,7 @@ CREATE TABLE flink_es_table(
 
   
 
-* custom
+* custom [flink-connector-elasticsearch-sink](https://github.com/cclient/flink-connector-elasticsearch-sink)
 
   es doc source without id
 
